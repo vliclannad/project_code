@@ -29,7 +29,7 @@ typedef volatile uint16_t     vuint16_t;  // 不优化无符号16位数，字
 typedef volatile uint32_t     vuint32_t;  // 不优化无符号32位数，长字
 typedef volatile int8_t       vint_8;     // 不优化有符号8位数
 typedef volatile int16_t      vint_16;    // 不优化有符号16位数
-typedef volatile int16_t      vint_32;    // 不优化有符号32位数
+typedef volatile int32_t      vint_32;    // 不优化有符号32位数
 //（5）【固定】位操作宏函数（置位、清位、获得寄存器一位的状态）
 #define BSET(bit,Register)  ((Register)|= (1<<(bit)))    //置寄存器的一位
 #define BCLR(bit,Register)  ((Register) &= ~(1<<(bit)))  //清寄存器的一位
