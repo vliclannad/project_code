@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "osfunc.h": "c",
+        "numtostr.h": "c",
+        "rtthread.h": "c"
+    }
+}
