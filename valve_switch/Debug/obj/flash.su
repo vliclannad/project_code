@@ -1,0 +1,12 @@
+flash.c:35:6:flash_init	0	static
+flash.c:60:9:flash_erase	0	static
+flash.c:162:6:flash_read_logic	8	static
+flash.c:177:6:flash_read_physical	8	static
+flash.c:190:6:flash_protect	0	static
+flash.c:217:6:flash_unprotect	0	static
+flash.c:244:9:flash_isempty	16	dynamic
+flash.c:268:9:flash_isSectorProtected	0	static
+flash.c:296:9:flash_write_DoubleWord	4	static
+flash.c:330:9:flash_Best	24	static
+flash.c:93:9:flash_write	2072	static
+flash.c:140:9:flash_write_physical	8	static

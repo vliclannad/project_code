@@ -1,0 +1,5 @@
+board.c:34:17:_SysTick_Config	0	static
+board.c:53:15:rt_heap_begin_get	0	static
+board.c:58:15:rt_heap_end_get	0	static
+board.c:67:6:rt_hw_board_init	8	static
+board.c:86:6:SysTick_Handler	8	static

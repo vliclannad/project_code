@@ -1,0 +1,5 @@
+clock.c:29:6:rt_system_tick_init	0	static
+clock.c:44:11:rt_tick_get	0	static
+clock.c:54:6:rt_tick_set	8	static
+clock.c:67:6:rt_tick_increase	8	static
+clock.c:101:11:rt_tick_from_millisecond	4	static

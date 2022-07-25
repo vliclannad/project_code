@@ -1,0 +1,17 @@
+thread.c:82:6:rt_thread_exit	16	static
+thread.c:119:17:_rt_thread_init	32	static
+thread.c:737:6:rt_thread_timeout	8	static
+thread.c:221:10:rt_thread_init	40	static
+thread.c:253:13:rt_thread_self	0	static
+thread.c:309:10:rt_thread_detach	8	static
+thread.c:363:13:rt_thread_create	40	static
+thread.c:408:10:rt_thread_delete	8	static
+thread.c:450:10:rt_thread_yield	8	static
+thread.c:646:10:rt_thread_suspend	16	static
+thread.c:494:10:rt_thread_sleep	32	static
+thread.c:532:10:rt_thread_delay	8	static
+thread.c:545:10:rt_thread_mdelay	8	static
+thread.c:694:10:rt_thread_resume	16	static
+thread.c:266:10:rt_thread_startup	8	static
+thread.c:567:10:rt_thread_control	16	static
+thread.c:771:13:rt_thread_find	24	static

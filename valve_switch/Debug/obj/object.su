@@ -1,0 +1,9 @@
+object.c:202:6:rt_system_object_init	0	static
+object.c:219:1:rt_object_get_information	0	static
+object.c:238:6:rt_object_init	24	static
+object.c:304:6:rt_object_detach	8	static
+object.c:335:13:rt_object_allocate	24	static
+object.c:401:6:rt_object_delete	8	static
+object.c:437:11:rt_object_is_systemobject	0	static
+object.c:456:12:rt_object_get_type	0	static
+object.c:476:13:rt_object_find	24	static

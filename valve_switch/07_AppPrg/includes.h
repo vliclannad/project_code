@@ -41,22 +41,27 @@ G_VAR_PREFIX uint8_t str_acc[3];
 G_VAR_PREFIX uint8_t str_gyro[3];
 G_VAR_PREFIX uint8_t str_angle[3];
 
+
+
+
 // JY60½á¹¹Ìå
 typedef struct SAcc
 {
 	short a[3];
 	short T;
-};sacc;
+};
 typedef struct SGyro
 {
 	short w[3];
 	short T;
-};sgyro;
+};
 typedef struct SAngle
 {
 	short Angle[3];
 	short T;
-};sangle;
+};
+
+
  
 char YAWCMD[3] = {0XFF,0XAA,0X52};
 char ACCCMD[3] = {0XFF,0XAA,0X67};

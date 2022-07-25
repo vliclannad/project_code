@@ -1,9 +1,7 @@
 
 #include "includes.h"
 
-extern struct SAcc sacc;
-extern struct SGyro sgyro;
-extern struct SAngle sangle;
+
 /*-------------------------------------------------------------------------
 JY60数据帧结构：帧头0x55+数据类型0x51,0x52,0x53（加速度，角速度，角度）+数据低八位（X轴）+数据高八位（X轴）+数据低八位（Y轴）+数据高八位（Y轴）+数据低八位（Z轴）+数据高八位（Z轴）+数据低八位（其他）
 +数据高八位（其他）+CRC校验（两字节）
