@@ -1,3 +1,0 @@
-valueType.c:15:10:IntConvertToStr	12	static
-valueType.c:62:10:DoubleConvertToStr	40	static
-valueType.c:122:6:ArrayCopy	4	static

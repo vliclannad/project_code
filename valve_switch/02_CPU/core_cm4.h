@@ -61,6 +61,7 @@
  */
 
 #include "cmsis_version.h"
+#include "stm32l431xx.h"
 
 /* CMSIS CM4 definitions */
 #define __CM4_CMSIS_VERSION_MAIN  (__CM_CMSIS_VERSION_MAIN)              /*!< \deprecated [31:16] CMSIS HAL main version */
@@ -1949,7 +1950,7 @@ __NO_RETURN __STATIC_INLINE void __NVIC_SystemReset(void)
 
 #if defined (__MPU_PRESENT) && (__MPU_PRESENT == 1U)
 
-//#include "mpu_armv7.h"
+#include "mpu_armv7.h"
 
 #endif
 

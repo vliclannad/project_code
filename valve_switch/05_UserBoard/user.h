@@ -16,7 +16,6 @@
 #include "flash.h"
 #include "emuart.h"
 #include "gec.h"
-#include "Os_United_API.h"
 
 //（2）【变动】指示灯端口及引脚定义—根据实际使用的引脚改动
 //指示灯端口及引脚定义

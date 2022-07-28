@@ -10,7 +10,7 @@ lcd.c:112:6:LCD_DrawCircle	64	static
 lcd.c:293:6:LCD_DrawLine	56	static
 lcd.c:153:6:LCD_DrawRectangle	32	static
 lcd.c:170:6:LCD_ShowCharactor	24	static
-lcd.c:199:6:LCD_ShowString	56	static
+lcd.c:199:6:LCD_ShowString	48	static
 lcd.c:337:6:LCD_DrawSurface	32	static
 lcd.c:99:6:LCD_DrawPoint_big	16	static
 lcd.c:257:6:LCD_aotu	64	static
