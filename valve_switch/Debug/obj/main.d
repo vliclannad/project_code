@@ -22,7 +22,8 @@ obj/main.o: srcc/main.c F:\project_code\valve_switch\07_AppPrg/includes.h \
  F:\project_code\valve_switch\05_UserBoard/lcd.h \
  F:\project_code\valve_switch\03_MCU\MCU_drivers/wdog.h \
  F:\project_code\valve_switch\03_MCU\MCU_drivers/spi.h \
- F:\project_code\valve_switch\03_MCU\MCU_drivers/adc.h
+ F:\project_code\valve_switch\03_MCU\MCU_drivers/adc.h \
+ F:\project_code\valve_switch\06_SoftComponent/valueType.h
 
 F:\project_code\valve_switch\07_AppPrg/includes.h:
 
@@ -73,3 +74,5 @@ F:\project_code\valve_switch\03_MCU\MCU_drivers/wdog.h:
 F:\project_code\valve_switch\03_MCU\MCU_drivers/spi.h:
 
 F:\project_code\valve_switch\03_MCU\MCU_drivers/adc.h:
+
+F:\project_code\valve_switch\06_SoftComponent/valueType.h:

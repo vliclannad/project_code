@@ -1,2 +1,2 @@
-main.c:52:6:main_Dly_ms	0	static
-main.c:5:5:main	32	static
+main.c:54:6:main_Dly_ms	0	static
+main.c:6:5:main	1072	static

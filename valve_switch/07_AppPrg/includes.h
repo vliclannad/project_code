@@ -40,6 +40,8 @@ G_VAR_PREFIX int16_t sacc[3];
 G_VAR_PREFIX int16_t sgyro[3];
 G_VAR_PREFIX int16_t sangle[3];
 
+G_VAR_PREFIX uint8_t sangle_test[6];
+
 G_VAR_PREFIX uint8_t str_acc[3];
 G_VAR_PREFIX uint8_t str_gyro[3];
 G_VAR_PREFIX uint8_t str_angle[3];
